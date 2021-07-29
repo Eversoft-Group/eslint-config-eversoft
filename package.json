@@ -1,6 +1,6 @@
 {
   "name": "@eversoft/eslint-config",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "ESLint config for JavaScript/TypeScript projects at Eversoft",
   "main": "eslint.json",
   "repository": "Eversoft-Group/eslint-config-eversoft",

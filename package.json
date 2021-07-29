@@ -1,0 +1,38 @@
+{
+    "name": "@eversoft/eslint-config",
+    "version": "1.0.0",
+    "description": "ESLint config for JavaScript/TypeScript projects at Eversoft",
+    "main": "eslint.json",
+    "repository": "Eversoft-Group/eslint-config-eversoft",
+    "author": "Pradip Dhakal <dhpradeep25@gmail.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/Eversoft-Group/eslint-config-eversoft",
+    "bugs": {
+      "url": "https://github.com/Eversoft-Group/eslint-config-eversoft/issues"
+    },
+    "files": [
+      "react-rules.json",
+      "eslint.json"
+    ],
+    "scripts": {
+      "precommit": "yarn lint",
+      "lint": "eslint -c react-rules.json test.js"
+    },
+    "keywords": [
+      "eversoft",
+      "linting",
+      "linting-eversoft",
+      "eslint-config"
+    ],
+    "peerDependencies": {
+      "eslint": ">= 6.0.0"
+    },
+    "dependencies": {
+      "eslint-plugin-jsdoc": "^22.1.0",
+      "eslint-plugin-react": "^7.19.0"
+    },
+    "devDependencies": {
+      "eslint": "^6.8.0",
+      "husky": "^0.14.3"
+    }
+  }

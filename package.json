@@ -16,7 +16,7 @@
     ],
     "scripts": {
       "precommit": "yarn lint",
-      "lint": "eslint -c react-rules.json test.js"
+      "lint": "eslint -c react-rules.json test.js --fix"
     },
     "keywords": [
       "eversoft",

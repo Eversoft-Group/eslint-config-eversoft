@@ -4,7 +4,7 @@
   "description": "ESLint config for JavaScript/TypeScript projects at Eversoft",
   "main": "eslint.json",
   "repository": "Eversoft-Group/eslint-config-eversoft",
-  "author": "Pradip Dhakal <dhpradeep25@gmail.com>",
+  "author": "eversoft",
   "license": "MIT",
   "homepage": "https://github.com/Eversoft-Group/eslint-config-eversoft",
   "bugs": {

@@ -1,9 +1,9 @@
 # eversoft/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@eversoft/eslint-config?style=flat-square)](https://badge.fury.io/js/eslint-config-leapfrog)
-[![npm](https://img.shields.io/npm/dm/@eversoft/eslint-config?style=flat-square)](https://npmjs.org/package/eslint-config-leapfrog)
+[![npm](https://img.shields.io/npm/v/@eversoft/eslint-config?style=flat-square)](https://badge.fury.io/js/%40eversoft%2Feslint-config.svg)
+[![npm](https://img.shields.io/npm/dm/@eversoft/eslint-config?style=flat-square)](https://npmjs.org/package/@eversoft/eslint-config)
 
-ESlint rules for JavaScript projects at Leapfrog.
+ESlint rules for JavaScript projects at Eversoft.
 
 ## Requires
 

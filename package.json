@@ -11,12 +11,12 @@
     "url": "https://github.com/Eversoft-Group/eslint-config-eversoft/issues"
   },
   "files": [
-    "react-rules.json",
+    "react.json",
     "eslint.json"
   ],
   "scripts": {
     "precommit": "yarn lint",
-    "lint": "eslint -c react-rules.json test.js --fix"
+    "lint": "eslint -c react.json test.js --fix"
   },
   "keywords": [
     "eversoft",
